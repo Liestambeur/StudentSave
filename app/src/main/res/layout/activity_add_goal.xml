@@ -148,8 +148,7 @@
             android:text="Ok"
             android:id="@+id/ok"
             android:layout_weight="0.5"
-            android:clickable="true"
-            android:onClick="okButton" />
+            android:clickable="true" />
 
         <Button
             android:layout_width="0dp"
